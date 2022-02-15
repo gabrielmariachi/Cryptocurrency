@@ -1,2 +1,2 @@
 # Cryptocurrency
-Cryptocurrency structure with nodes
+Gabcoin - Cryptocurrency structure with nodes
