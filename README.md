@@ -1,2 +1,2 @@
 # Cryptocurrency
-Cryptocurrency structure
+Cryptocurrency structure with nodes
